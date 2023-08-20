@@ -1,1 +1,2 @@
 "Hello dawg!"
+print("Hello dawg!")
